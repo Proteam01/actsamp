@@ -1,6 +1,0 @@
-net\acq\App.class
-net\acq\ParseProps.class
-net\acq\jobs\RunCaps.class
-net\acq\TrayIconManager$1.class
-net\acq\TrayIconManager.class
-net\acq\jobs\HelloJob.class
